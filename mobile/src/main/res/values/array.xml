@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_trnspt_options">
+    <item>@string/pref_trnspt_label_pied</item>
+    <item>@string/pref_trnspt_label_voiture</item>
+    <item>@string/pref_trnspt_label_bike</item>
+</string-array>
+    <string-array name="pref_trnspt_values">
+        <item>@string/pref_trnspt_pied</item>
+        <item>@string/pref_trnspt_voiture</item>
+        <item>@string/pref_trnspt_bike</item>
+    </string-array>
+
+
+
+    <string-array name="pref_type_options">
+        <item>restaurant</item>
+        <item>banque</item>
+        <item>supermarché</item>
+        <item>bar</item>
+        <item>poste</item>
+        <item>pharmacie</item>
+        <item>musée</item>
+        <item>boite de nuit</item>
+        <item>cinéma</item>
+        <item>bibliothéque</item>
+        <item>boulangerie</item>
+        <item>parc</item>
+        <item>fleuriste</item>
+        <item>hotel de ville</item>
+        <item>repas à emporter</item>
+        <item>station service</item>
+        <item>centre commercial</item>
+        <item>hôpital</item>
+        <item>université</item>
+        <item>parking</item>
+    </string-array>
+
+
+    <string-array name="pref_type_values">
+        <item>restaurant</item>
+        <item>bank</item>
+        <item>grocery_or_supermarket</item>
+        <item>bar</item>
+        <item>post_office</item>
+        <item>pharmacy</item>
+        <item>museum</item>
+        <item>night_club</item>
+        <item>movie_theater</item>
+        <item>library</item>
+        <item>bakery</item>
+        <item>park</item>
+        <item>florist</item>
+        <item>city_hall</item>
+        <item>meal_takeaway</item>
+        <item>gas_station</item>
+        <item>shopping_mall</item>
+        <item>hospital</item>
+        <item>university</item>
+        <item>parking</item>
+    </string-array>
+</resources>
